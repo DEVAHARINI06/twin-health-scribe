@@ -1,5 +1,4 @@
-# Twin Health Scribe
-
+# Digital Twin Health Care
 Twin Health Scribe is a project designed to capture, process, and manage health-related information efficiently.  
 This repository contains the main codebase and documentation.
 
